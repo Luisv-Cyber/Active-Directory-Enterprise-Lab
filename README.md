@@ -1,4 +1,16 @@
 # Active Directory Enterprise IAM Lab
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Architecture](#architecture)
+- [Technologies Used](#technologies-used)
+- [Lab Environment](#lab-environment)
+- [Setup Process](#setup-process)
+- [Active Directory Configuration](#active-directory-configuration)
+- [IAM Concepts Demonstrated](#iam-concepts-demonstrated)
+- [Troubleshooting](#troubleshooting--issues-encountered)
+- [Lessons Learned](#lessons-learned)
+- [Skills Demonstrated](#skills-demonstrated)
 
 ## Project Overview
 
