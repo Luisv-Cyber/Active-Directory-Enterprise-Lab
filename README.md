@@ -83,7 +83,7 @@ Security groups were used to implement Role-Based Access Control (RBAC).
 
 User accounts were automatically created and placed into the correct Organizational Units using PowerShell automation.
 
-![Users Created](screenshots/users-created.png)
+![Users Created](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20123638.png?raw=true)
 
 ### File Share Permissions
 
