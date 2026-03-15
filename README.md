@@ -77,7 +77,7 @@ Organizational Units were created to simulate enterprise identity organization.
 
 Security groups were used to implement Role-Based Access Control (RBAC).
 
-![Security Groups](screenshots/security-groups.png)
+![Security Groups](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20123151.png?raw=true)
 
 ### Provisioned Users
 
