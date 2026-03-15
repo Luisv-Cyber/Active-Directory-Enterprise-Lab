@@ -95,4 +95,4 @@ Departmental file shares were configured with NTFS permissions assigned to secur
 
 The Windows 11 client machine was successfully joined to the domain and authenticated using domain credentials.
 
-![Domain Join](screenshots/domain-join.png)
+![Domain Join](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20124438.png?raw=true)
