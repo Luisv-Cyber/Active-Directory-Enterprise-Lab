@@ -89,7 +89,7 @@ User accounts were automatically created and placed into the correct Organizatio
 
 Departmental file shares were configured with NTFS permissions assigned to security groups.
 
-![File Share Permissions]([https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20123914.png?raw=true)
+![File Share Permissions](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20123914.png?raw=true)
 
 ### Domain Joined Workstation
 
