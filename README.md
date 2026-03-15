@@ -65,7 +65,7 @@ The environment includes:
 
 Both the Domain Controller and workstation were deployed in a Hyper-V virtual lab environment.
 
-![Hyper-V VMs Running](screenshots/hyperv-vms-running.png)
+![Hyper-V VMs Running](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20115836.png?raw=true)
 
 ### Active Directory OU Structure
 
