@@ -71,7 +71,7 @@ Both the Domain Controller and workstation were deployed in a Hyper-V virtual la
 
 Organizational Units were created to simulate enterprise identity organization.
 
-![OU Structure](screenshots/ou-structure.png)
+![OU Structure](https://github.com/Luisv-Cyber/Active-Directory-Enterprise-Lab/blob/main/screenshots/Screenshot%202026-03-15%20122836.png?raw=true)
 
 ### Security Groups
 
