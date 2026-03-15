@@ -57,7 +57,21 @@ The environment includes:
 
 ## Skills Demonstrated
 
----
+## Skills Demonstrated
+
+- Active Directory Domain Services (AD DS) deployment and configuration  
+- Organizational Unit (OU) design for enterprise identity structure  
+- User provisioning and account management using PowerShell  
+- Security group creation and management  
+- Role-Based Access Control (RBAC) implementation  
+- NTFS permission configuration for file system security  
+- SMB file share configuration for departmental resources  
+- Group Policy configuration for centralized management  
+- Windows domain join and authentication validation  
+- Identity and Access Management (IAM) fundamentals  
+- Hyper-V virtualization environment setup and management  
+- Windows Server administration and infrastructure configuration  
+- Troubleshooting Active Directory, DNS, and network connectivity issues
 
 ## Screenshots
 
