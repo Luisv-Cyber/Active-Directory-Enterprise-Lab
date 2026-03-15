@@ -53,3 +53,45 @@ The environment includes:
 | Domain  |               | Windows11 |
 |Controller|              | Workstation|
 +---------+               +-----------+
+
+## Skills Demonstrated
+
+---
+
+## Screenshots
+
+### Hyper-V Virtual Machines
+
+Both the Domain Controller and workstation were deployed in a Hyper-V virtual lab environment.
+
+![Hyper-V VMs Running](screenshots/hyperv-vms-running.png)
+
+### Active Directory OU Structure
+
+Organizational Units were created to simulate enterprise identity organization.
+
+![OU Structure](screenshots/ou-structure.png)
+
+### Security Groups
+
+Security groups were used to implement Role-Based Access Control (RBAC).
+
+![Security Groups](screenshots/security-groups.png)
+
+### Provisioned Users
+
+User accounts were automatically created and placed into the correct Organizational Units using PowerShell automation.
+
+![Users Created](screenshots/users-created.png)
+
+### File Share Permissions
+
+Departmental file shares were configured with NTFS permissions assigned to security groups.
+
+![File Share Permissions](screenshots/file-share-permissions.png)
+
+### Domain Joined Workstation
+
+The Windows 11 client machine was successfully joined to the domain and authenticated using domain credentials.
+
+![Domain Join](screenshots/domain-join.png)
