@@ -1,0 +1,15 @@
++-----------------------+
+|       Hyper-V Host    |
++-----------------------+
+          |
+          | Lab-Switch (Internal Network)
+          |
+  -------------------------------
+  |                             |
++---------+               +-----------+
+|  DC01   |               | Client01  |
+| Domain  |               | Windows11 |
+|Controller|              | Workstation|
++---------+               +-----------+
+
+Domain: company.local
